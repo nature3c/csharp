@@ -1,0 +1,7 @@
+D:\andrew_C#\project2_2\bin\Debug\project2_2.exe.config
+D:\andrew_C#\project2_2\bin\Debug\project2_2.exe
+D:\andrew_C#\project2_2\bin\Debug\project2_2.pdb
+D:\andrew_C#\project2_2\obj\Debug\project2_2.csproj.AssemblyReference.cache
+D:\andrew_C#\project2_2\obj\Debug\project2_2.csproj.CoreCompileInputs.cache
+D:\andrew_C#\project2_2\obj\Debug\project2_2.exe
+D:\andrew_C#\project2_2\obj\Debug\project2_2.pdb

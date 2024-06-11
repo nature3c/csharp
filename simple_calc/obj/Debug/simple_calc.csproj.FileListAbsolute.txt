@@ -1,0 +1,7 @@
+D:\andrew_C#\simple_calc\bin\Debug\simple_calc.exe.config
+D:\andrew_C#\simple_calc\bin\Debug\simple_calc.exe
+D:\andrew_C#\simple_calc\bin\Debug\simple_calc.pdb
+D:\andrew_C#\simple_calc\obj\Debug\simple_calc.csproj.AssemblyReference.cache
+D:\andrew_C#\simple_calc\obj\Debug\simple_calc.csproj.CoreCompileInputs.cache
+D:\andrew_C#\simple_calc\obj\Debug\simple_calc.exe
+D:\andrew_C#\simple_calc\obj\Debug\simple_calc.pdb
