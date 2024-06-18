@@ -1,0 +1,12 @@
+D:\andrew_C#\PJT04_17\bin\Debug\PJT04_17.exe.config
+D:\andrew_C#\PJT04_17\bin\Debug\PJT04_17.exe
+D:\andrew_C#\PJT04_17\bin\Debug\PJT04_17.pdb
+D:\andrew_C#\PJT04_17\bin\Debug\Nakov.TurtleGraphics.dll
+D:\andrew_C#\PJT04_17\obj\Debug\PJT04_17.csproj.AssemblyReference.cache
+D:\andrew_C#\PJT04_17\obj\Debug\PJT04_17.Form1.resources
+D:\andrew_C#\PJT04_17\obj\Debug\PJT04_17.Properties.Resources.resources
+D:\andrew_C#\PJT04_17\obj\Debug\PJT04_17.csproj.GenerateResource.cache
+D:\andrew_C#\PJT04_17\obj\Debug\PJT04_17.csproj.CoreCompileInputs.cache
+D:\andrew_C#\PJT04_17\obj\Debug\PJT04_17.csproj.Up2Date
+D:\andrew_C#\PJT04_17\obj\Debug\PJT04_17.exe
+D:\andrew_C#\PJT04_17\obj\Debug\PJT04_17.pdb
