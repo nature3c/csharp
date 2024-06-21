@@ -1,0 +1,12 @@
+D:\andrew_C#\PJT_Rainbow\bin\Debug\PJT_Rainbow.exe.config
+D:\andrew_C#\PJT_Rainbow\bin\Debug\PJT_Rainbow.exe
+D:\andrew_C#\PJT_Rainbow\bin\Debug\PJT_Rainbow.pdb
+D:\andrew_C#\PJT_Rainbow\bin\Debug\Nakov.TurtleGraphics.dll
+D:\andrew_C#\PJT_Rainbow\obj\Debug\PJT_Rainbow.csproj.AssemblyReference.cache
+D:\andrew_C#\PJT_Rainbow\obj\Debug\PJT_Rainbow.Form1.resources
+D:\andrew_C#\PJT_Rainbow\obj\Debug\PJT_Rainbow.Properties.Resources.resources
+D:\andrew_C#\PJT_Rainbow\obj\Debug\PJT_Rainbow.csproj.GenerateResource.cache
+D:\andrew_C#\PJT_Rainbow\obj\Debug\PJT_Rainbow.csproj.CoreCompileInputs.cache
+D:\andrew_C#\PJT_Rainbow\obj\Debug\PJT_Rain.ABBA4014.Up2Date
+D:\andrew_C#\PJT_Rainbow\obj\Debug\PJT_Rainbow.exe
+D:\andrew_C#\PJT_Rainbow\obj\Debug\PJT_Rainbow.pdb

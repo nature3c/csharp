@@ -1,0 +1,7 @@
+D:\andrew_C#\PJT_DICE\bin\Debug\PJT_DICE.exe.config
+D:\andrew_C#\PJT_DICE\bin\Debug\PJT_DICE.exe
+D:\andrew_C#\PJT_DICE\bin\Debug\PJT_DICE.pdb
+D:\andrew_C#\PJT_DICE\obj\Debug\PJT_DICE.csproj.AssemblyReference.cache
+D:\andrew_C#\PJT_DICE\obj\Debug\PJT_DICE.csproj.CoreCompileInputs.cache
+D:\andrew_C#\PJT_DICE\obj\Debug\PJT_DICE.exe
+D:\andrew_C#\PJT_DICE\obj\Debug\PJT_DICE.pdb
