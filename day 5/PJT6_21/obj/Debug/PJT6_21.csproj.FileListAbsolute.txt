@@ -1,0 +1,7 @@
+D:\andrew_C#\PJT6_21\bin\Debug\PJT6_21.exe.config
+D:\andrew_C#\PJT6_21\bin\Debug\PJT6_21.exe
+D:\andrew_C#\PJT6_21\bin\Debug\PJT6_21.pdb
+D:\andrew_C#\PJT6_21\obj\Debug\PJT6_21.csproj.AssemblyReference.cache
+D:\andrew_C#\PJT6_21\obj\Debug\PJT6_21.csproj.CoreCompileInputs.cache
+D:\andrew_C#\PJT6_21\obj\Debug\PJT6_21.exe
+D:\andrew_C#\PJT6_21\obj\Debug\PJT6_21.pdb
