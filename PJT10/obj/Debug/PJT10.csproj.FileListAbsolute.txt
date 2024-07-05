@@ -1,0 +1,7 @@
+D:\andrew_C#\PJT10\bin\Debug\PJT10.exe.config
+D:\andrew_C#\PJT10\bin\Debug\PJT10.exe
+D:\andrew_C#\PJT10\bin\Debug\PJT10.pdb
+D:\andrew_C#\PJT10\obj\Debug\PJT10.csproj.AssemblyReference.cache
+D:\andrew_C#\PJT10\obj\Debug\PJT10.csproj.CoreCompileInputs.cache
+D:\andrew_C#\PJT10\obj\Debug\PJT10.exe
+D:\andrew_C#\PJT10\obj\Debug\PJT10.pdb
