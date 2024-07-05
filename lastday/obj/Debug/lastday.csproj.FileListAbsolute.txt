@@ -1,0 +1,7 @@
+D:\andrew_C#\lastday\bin\Debug\lastday.exe.config
+D:\andrew_C#\lastday\bin\Debug\lastday.exe
+D:\andrew_C#\lastday\bin\Debug\lastday.pdb
+D:\andrew_C#\lastday\obj\Debug\lastday.csproj.AssemblyReference.cache
+D:\andrew_C#\lastday\obj\Debug\lastday.csproj.CoreCompileInputs.cache
+D:\andrew_C#\lastday\obj\Debug\lastday.exe
+D:\andrew_C#\lastday\obj\Debug\lastday.pdb
